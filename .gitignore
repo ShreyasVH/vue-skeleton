@@ -2,6 +2,7 @@ node_modules
 .envrc
 .idea
 .DS_Store
+dist/
 npmInstall.log
 compile.log
 server.log
