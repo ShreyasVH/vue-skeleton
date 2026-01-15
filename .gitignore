@@ -3,6 +3,6 @@ node_modules
 .idea
 .DS_Store
 dist/
-npmInstall.log
+yarnInstall.log
 compile.log
 server.log
