@@ -6,3 +6,5 @@ dist/
 yarnInstall.log
 compile.log
 server.log
+ncuLog.txt
+npmInstall.log
